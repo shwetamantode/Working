@@ -1,1 +1,2 @@
 Magic starts when you are happy
+And these are the changes done from server in git
